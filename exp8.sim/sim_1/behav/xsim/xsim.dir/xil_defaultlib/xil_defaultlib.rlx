@@ -1,0 +1,15 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+E:/projects/exp8/exp8.gen/sources_1/ip/blk_mem_gen_0_1/sim/blk_mem_gen_0.v,1736453147,verilog,,E:/projects/exp8/exp8.gen/sources_1/ip/clk_wiz_0_1/clk_wiz_0_clk_wiz.v,,blk_mem_gen_0,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.gen/sources_1/ip/blk_mem_gen_1_1/sim/blk_mem_gen_1.v,1736452822,verilog,,E:/projects/exp8/exp8.gen/sources_1/ip/blk_mem_gen_0_1/sim/blk_mem_gen_0.v,,blk_mem_gen_1,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.gen/sources_1/ip/blk_mem_gen_2/sim/blk_mem_gen_2.v,1736452817,verilog,,E:/projects/exp8/exp8.gen/sources_1/ip/blk_mem_gen_1_1/sim/blk_mem_gen_1.v,,blk_mem_gen_2,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.gen/sources_1/ip/clk_wiz_0_1/clk_wiz_0.v,1736452980,verilog,,E:/projects/exp8/exp8.srcs/sources_1/new/controller.v,,clk_wiz_0,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.gen/sources_1/ip/clk_wiz_0_1/clk_wiz_0_clk_wiz.v,1736452980,verilog,,E:/projects/exp8/exp8.gen/sources_1/ip/clk_wiz_0_1/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+E:/projects/exp8/exp8.srcs/sim_1/new/top_tb.v,1736516687,verilog,,,,top_module_tb,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.srcs/sources_1/new/controller.v,1736515681,verilog,,E:/projects/exp8/exp8.srcs/sources_1/new/conv.v,,controller,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.srcs/sources_1/new/conv.v,1736516460,verilog,,E:/projects/exp8/exp8.srcs/sim_1/new/top_tb.v,,conv,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.srcs/sources_1/new/top.v,1736511967,verilog,,E:/projects/exp8/exp8.srcs/sources_1/new/vga_controller.v,,top,,,../../../../exp8.ip_user_files/ipstatic,,,,,
+E:/projects/exp8/exp8.srcs/sources_1/new/vga_controller.v,1736221227,verilog,,E:/projects/exp8/exp8.srcs/sim_1/new/top_tb.v,,vga_driver,,,../../../../exp8.ip_user_files/ipstatic,,,,,
